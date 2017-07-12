@@ -5,7 +5,7 @@
 		<title>HTML Sandbox</title>
 	</head>
 	<body>
-		<h1>This is my web page.</h1>
+		<h1 id="page-header">This is my web page.</h1>
 
 		<table>
 			<tr>
@@ -27,7 +27,7 @@
 		</table>
 
 		<!--This is an HTML comment-->
-		<h2>A Few of My favorite Things</h2>
+		<h2 class="red-heading heading text-green">A Few of My favorite Things</h2>
 		<ul>
 		<li>Tacos<li>
 		<li>The Beach</li>
@@ -45,18 +45,6 @@
 
 		<h2>I <3 Pikachu</h2>
 		<img src="images/016_16.JPG" alt="016_16"/>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
